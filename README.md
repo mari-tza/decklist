@@ -1,0 +1,1 @@
+eu copiei esse código que imita um linktree e nao lembro de quem eu peguei :( usei para listar meus deck de Magic The gathering. Caso queiram ver o resultado: https://mari-tza.github.io/decklist/ e quando eu achar o original deixo aqui também 
